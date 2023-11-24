@@ -9,7 +9,7 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 
 Example 1:
 
-![alt text](https://github.com/prakashsolanki28/linked-list/blob/main/addtwonumber1.jpg?raw=true)
+![alt text](https://github.com/prakashsolanki28/linked-list/blob/main/1.%20Add%20Two%20Numbers/addtwonumber1.jpg?raw=true)
 
 - Input: l1 = [2,4,3], l2 = [5,6,4]
 - Output: [7,0,8]
